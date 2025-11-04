@@ -4,3 +4,8 @@ build
 .vscode
 compile_commands.json
 imgui.ini
+/.idea
+.idea/ImGuiExample.iml
+.idea/modules.xml
+.idea/vcs.xml
+/.idea
